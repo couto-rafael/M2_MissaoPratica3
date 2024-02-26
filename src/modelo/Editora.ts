@@ -7,3 +7,5 @@ class Editora {
     this.nome = nome;
   }
 }
+
+export default Editora;
